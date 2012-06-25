@@ -1,0 +1,233 @@
+[
+
+
+{
+  "loopId" : "hh04",
+  "loopName": "Blip Hop",
+  "loopCategory": "Hip Hop",
+  "bpm": 80,
+  "beats": 4,
+  "file": "bshh 01 nonoise 4b 80bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+{
+  "loopId" : "hhlive",
+  "loopName": "Live",
+  "loopCategory": "Hip Hop",
+  "bpm": 100,
+  "beats": 8,
+  "file": "Live Edgy Drums 01 100bpm.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "hhes2",
+  "loopName": "East Side",
+  "loopCategory": "Hip Hop",
+  "bpm": 92,
+  "beats": 8,
+  "file": "Bshh 10 var2 92bpm.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+{
+  "loopId" : "hhws",
+  "loopName": "West Side",
+  "loopCategory": "Hip Hop",
+  "bpm": 80,
+  "beats": 16,
+  "file": "Bshh 10 80bpm part2.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "hhss",
+  "loopName": "South Side Ride",
+  "loopCategory": "Hip Hop",
+  "bpm": 86,
+  "beats": 16,
+  "file": "bb 08-02 86bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+
+
+
+
+
+{
+  "loopId" : "u1",
+  "loopName": "Rimshot",
+  "loopCategory": "Chillout",
+  "bpm": 90,
+  "beats": 16,
+  "file": "dd2 02 90bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+{
+  "loopId" : "u2",
+  "loopName": "Brushes and Toms",
+  "loopCategory": "Chillout",
+  "bpm": 100,
+  "beats": 16,
+  "file": "dd2 06 100bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+
+{
+  "loopId" : "ocular07b",
+  "loopName": "High and Tight",
+  "loopCategory": "Chillout",
+  "bpm": 96,
+  "beats": 8,
+  "file": "ocular 07 kick snare only 96bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+
+
+
+
+
+
+{
+  "loopId" : "rhaze",
+  "loopName": "Haze",
+  "loopCategory": "Classic",
+  "bpm": 100,
+  "beats": 8,
+  "file": "Modern Rock Drums 12 8b 100bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+{
+  "loopId" : "motwn",
+  "loopName": "Motown",
+  "loopCategory": "Classic",
+  "bpm": 110,
+  "beats": 4,
+  "file": "Motown Drummer 13 4b 110bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+{
+  "loopId" : "regg",
+  "loopName": "Reggae",
+  "loopCategory": "Classic",
+  "bpm": 72,
+  "beats": 4,
+  "file": "DD2 05 raw hh 72bpm.aac.caf",
+  "scaleId": "min2",
+  "tuningId": "C"
+},
+{
+  "loopId" : "ocular08",
+  "loopName": "Breaks",
+  "loopCategory": "Classic",
+  "bpm": 116,
+  "beats": 16,
+  "file": "ocular 08 breaks 116bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "rsteady",
+  "loopName": "Steady",
+  "loopCategory": "Classic",
+  "bpm": 104,
+  "beats": 8,
+  "file": "ocular 03 quieter 104bpm.aac.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "redge",
+  "loopName": "Edge",
+  "loopCategory": "Classic",
+  "bpm": 95,
+  "beats": 16,
+  "file": "Live Edgy Drums 15 95bpm.caf",
+  "scaleId": "blu",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "boomchik",
+  "loopName": "Boom-Chika",
+  "loopCategory": "Dance",
+  "bpm": 120,
+  "beats": 4,
+  "file": "Boom-Chika 4b 120bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+{
+  "loopId" : "ddope",
+  "loopName": "Dope",
+  "loopCategory": "Dance",
+  "bpm": 95,
+  "beats": 8,
+  "file": "Club Dance Beat 056 95bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+{
+  "loopId" : "ocular06a",
+  "loopName": "Sega",
+  "loopCategory": "Dance",
+  "bpm": 108,
+  "beats": 16,
+  "file": "Ocular 06 bigbeat 108bpm.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "ocular09",
+  "loopName": "Hard",
+  "loopCategory": "Dance",
+  "bpm": 116,
+  "beats": 16,
+  "file": "ocular 09 minimal 116bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "ocular05",
+  "loopName": "Half Time",
+  "loopCategory": "Dance",
+  "bpm": 63,
+  "beats": 8,
+  "file": "ocular 05 half time 63bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+},
+
+{
+  "loopId" : "met_rim",
+  "loopName": "Metronome: Rim",
+  "loopCategory": "Utility",
+  "bpm": 100,
+  "beats": 8,
+  "file": "metronome rim 100bpm.aac.caf",
+  "scaleId": "trnc",
+  "tuningId": "C"
+}
+
+
+
+
+
+
+
+]

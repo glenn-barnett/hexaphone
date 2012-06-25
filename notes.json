@@ -1,0 +1,67 @@
+[
+
+
+
+
+
+{
+  "noteLetter" : "C",
+  "noteTitle": "1",
+  "noteSubTitle": "root"
+},
+{
+  "noteLetter" : "Db",
+  "noteTitle": "m2",
+  "noteSubTitle": "minor 2nd"
+},
+{
+  "noteLetter" : "D",
+  "noteTitle": "M2",
+  "noteSubTitle": "major 2nd"
+},
+{
+  "noteLetter" : "Eb",
+  "noteTitle": "m3",
+  "noteSubTitle": "minor 3rd"
+},
+{
+  "noteLetter" : "E",
+  "noteTitle": "M3",
+  "noteSubTitle": "major 3rd"
+},
+{
+  "noteLetter" : "F",
+  "noteTitle": "4",
+  "noteSubTitle": "perfect 4th"
+},
+{
+  "noteLetter" : "Gb",
+  "noteTitle": "TT",
+  "noteSubTitle": "tritone"
+},
+{
+  "noteLetter" : "G",
+  "noteTitle": "5",
+  "noteSubTitle": "perfect 5th"
+},
+{
+  "noteLetter" : "Ab",
+  "noteTitle": "m6",
+  "noteSubTitle": "minor 6th"
+},
+{
+  "noteLetter" : "A",
+  "noteTitle": "M6",
+  "noteSubTitle": "major 6th"
+},{
+  "noteLetter" : "Bb",
+  "noteTitle": "m7",
+  "noteSubTitle": "minor 7th"
+},
+{
+  "noteLetter" : "B",
+  "noteTitle": "M7",
+  "noteSubTitle": "major 7th"
+}
+
+]
