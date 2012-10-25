@@ -971,7 +971,7 @@
 				261104AC1151BAFE00B30694 /* SBJsonWriter.m */,
 			);
 			name = JSON;
-			path = ../../../../../Library/SDKs/JSON_2.2.3/JSON;
+			path = ../SDKs/JSON_2.2.3/JSON;
 			sourceTree = SOURCE_ROOT;
 		};
 		26154C3B11F50525003F6BD8 /* Bassline */ = {
